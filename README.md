@@ -26,7 +26,7 @@ Sync Code Editor is a real-time collaborative code editing platform, where multi
 
 1. Clone the repository:
    ```sh
-   git clone 
+   git clone https://github.com/mitanshu57/SyncCodeEditor
    ```
 
 2. Install dependencies:
